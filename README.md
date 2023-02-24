@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/cd-wb/huddle_page)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://cd-wb.github.io/huddle_page)
 
 ## My process
 
